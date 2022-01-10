@@ -1,6 +1,6 @@
 # 225-Sem I5 2021/2022
 
-Caillet Benjamin
+C. Benjamin
 C. X.
 C. R.
 E. L.
